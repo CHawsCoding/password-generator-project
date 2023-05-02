@@ -18,5 +18,5 @@ A web browser to view and test the deployed github pages version of the applicat
 
 ![image](./assets/Screen%20Shot%202023-05-01%20at%209.44.33%20PM.png)
 
-
+https://chawscoding.github.io/password-generator-project/
 
