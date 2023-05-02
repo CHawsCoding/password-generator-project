@@ -4,7 +4,11 @@ For this project we are given completed HTML and CSS code and our job was to add
 
 ## Sources
 
-Source code was from the bootcamp gitlab
+Source code was from the bootcamp gitlab:
+https://git.bootcampcontent.com/University-of-Utah/UofU-VIRT-FSF-PT-04-2023-U-LOLC/-/tree/main/03-JavaScript/02-Challenge
+
+I used a Stack overflow article to help work through and debug the generate password function:
+https://stackoverflow.com/questions/61021441/random-password-generator-javascript
 
 ## Installation
 
